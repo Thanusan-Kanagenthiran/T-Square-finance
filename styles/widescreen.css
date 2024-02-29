@@ -1,0 +1,9 @@
+#what-we-do .items .item {
+    display: flex;
+    text-align: left;
+}
+
+#what-we-do .items .item i {
+    margin-right: 1.5rem;
+    align-self: center;
+}

@@ -1,0 +1,39 @@
+.l-heading {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin-bottom: 0.75rem;
+}
+
+.lead {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+#who-are-we .left-img {
+  display: none;
+}
+
+.m-heading {
+    text-align: center;
+}
+
+#what-we-do .items {
+    display: block;
+    padding: 1rem;
+}
+
+#clients-list .items .item{
+    margin:  0.25rem;
+    padding: 0.25rem;
+}
+
+.card
+{
+      box-shadow: 0 3px 10px var(--primary-color);
+      border-radius: 10px;
+      margin:  0.75rem 0.25rem;
+}
+
+#contact .contact-form{
+    margin: 1rem 0.5rem;
+}
